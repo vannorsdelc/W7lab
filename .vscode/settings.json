@@ -14,5 +14,5 @@
   "editor.inlineSuggest.enabled": false,
 
   // Disable VS Code's built-in AI features, including chat
-  "chat.disableAIFeatures": true
+  "chat.disableAIFeatures": false
 }
