@@ -1,0 +1,18 @@
+{
+  // Disable Copilot inline code completions for every language
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+
+  // Disable Copilot next-edit predictions
+  "github.copilot.nextEditSuggestions.enabled": false,
+
+  // Disable editor inline suggestions
+  "editor.inlineSuggest.enabled": false,
+
+  // Disable VS Code's built-in AI features, including chat
+  "chat.disableAIFeatures": true
+}
